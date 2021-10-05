@@ -23,4 +23,8 @@
     <Folder Include="Areas\Admin\Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GardenApp.DataAccess\GardenApp.DataAccess.csproj" />
+  </ItemGroup>
+
 </Project>
